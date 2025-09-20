@@ -10,8 +10,6 @@ This project was built as a hands-on exercise to practice and demonstrate core O
 
 ![Game Screenshot](https://raw.githubusercontent.com/NithinMukka/Warrior/main/gameplay.png)
 
-*(Note: Ensure you have a `gameplay.png` screenshot in your repository for this image to display correctly.)*
-
 ## Features
 
 *   **Object-Oriented Design:** The world is built from a set of robust classes (`Game`, `Room`, `Player`, `Item`, `Connection`, `Enemy`, etc.) that manage their own state and behavior.
