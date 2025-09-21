@@ -6,6 +6,10 @@ A classic text-based adventure game written in modern C++. The player awakens in
 
 This project was built as a hands-on exercise to practice and demonstrate core Object-Oriented Programming (OOP) principles in C++.
 
+## Class Diagram
+
+![Class Diagram Screenshot](https://raw.githubusercontent.com/NithinMukka/Warrior/main/warrior_class.png)
+
 ## Screenshot
 
 ![Game Screenshot](https://raw.githubusercontent.com/NithinMukka/Warrior/main/gameplay.png)
