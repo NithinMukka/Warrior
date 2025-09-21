@@ -8,7 +8,7 @@ This project was built as a hands-on exercise to practice and demonstrate core O
 
 ## Class Diagram
 
-![Class Diagram Screenshot](https://raw.githubusercontent.com/NithinMukka/Warrior/main/warrior_class.png)
+![Class diagram Screenshot](https://raw.githubusercontent.com/NithinMukka/Warrior/main/warrior_class.png)
 
 ## Screenshot
 
